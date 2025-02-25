@@ -18,7 +18,7 @@ The **Text to Voice Converter** is a simple yet powerful web application that al
 
 ## 📸 Screenshots
 ### 🎨 User Interface
-![Text to Voice Converter](images/screenshot.png)
+![text1](https://github.com/user-attachments/assets/3e4a6b46-306e-49d4-87f3-1edccd4c66f3)
 
 ---
 
