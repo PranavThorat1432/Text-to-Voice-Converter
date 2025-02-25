@@ -16,6 +16,12 @@ The **Text to Voice Converter** is a simple yet powerful web application that al
 
 ---
 
+## Live Preview
+
+[Preview](https://text-to-voice-converter-topaz.vercel.app/)
+
+---
+
 ## 📸 Screenshots
 ### 🎨 User Interface
 ![text1](https://github.com/user-attachments/assets/3e4a6b46-306e-49d4-87f3-1edccd4c66f3)
